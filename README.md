@@ -9,7 +9,8 @@
 
 不是单单关键词替换,而是语句组合替换，并在不断更新数据。
 
-
+### 在线体验效果
+http://cj.lycecho.com/api_form.php?key=test123
 
 ### 案例
 ## 原文
