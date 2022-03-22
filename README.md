@@ -30,6 +30,8 @@ http://cj.lycecho.com/api_form.php?key=test123
 | 测试用TOKEN：test123           | 测试token每日免费伪原创查询10w次 | |
 
 
+### 在线购买
+http://pay.lycecho.com
 
 ### 收费模式
 
