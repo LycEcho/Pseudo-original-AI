@@ -29,6 +29,7 @@ http://cj.lycecho.com/api_form.php?key=test123
 | http://cj.lycecho.com/api.php?json=0&v=2&key=申请的token | {wenzhang:'文章内容'}   | 
 | 测试用TOKEN：test123           | 测试token每日免费伪原创查询10w次 | |
 
+如果有帮助到您，欢迎给我个star，谢谢！
 
 ### 在线购买
 http://pay.lycecho.com
