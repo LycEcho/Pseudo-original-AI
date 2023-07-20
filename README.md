@@ -11,7 +11,7 @@
 支持火车头插件使用
 
 ### 在线体验效果
-http://cj.lycecho.com/api_form.php?key=test123
+[http://www.lycecho.com/original](http://www.lycecho.com/original)
 
 ### 联系方式
 <img src="http://cj.lycecho.com/article/wp-content/uploads/2022/10/%E5%BE%AE%E4%BF%A1%E5%8F%B7-220x300.jpg" width="200">
@@ -35,8 +35,8 @@ http://cj.lycecho.com/api_form.php?key=test123
 
 如果有帮助到您，欢迎给我个star，谢谢！
 
-### 在线购买
-http://pay.lycecho.com
+### 文档地址
+http://cj.lycecho.com/article/archives/146
 
 ### 收费模式
 
